@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg837"
+   sodipodi:docname="Dokument umbenennen.svg"
+   inkscape:version="0.92+devel (4eade15e6d, 2018-11-22, custom)">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1145"
+     id="namedview839"
+     showgrid="false"
+     inkscape:zoom="19.833333"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg837" />
+  <path
+     fill="none"
+     d="M 0,0 H 24 V 24 H 0 Z"
+     id="path833"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 28.145317,2 H 10.429063 C 7.9930785,2 6,3.9930785 6,6.4290633 V 41.86157 c 0,2.435985 1.9709332,4.429063 4.406918,4.429063 h 26.596525 c 2.435985,0 4.429063,-1.993078 4.429063,-4.429063 V 15.28719 Z M 38.297561,43.155688 H 9.1349454 V 5.1349457 H 27.275323 V 16.157184 h 11.022238 z"
+     id="path835"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssssssccccccccc"
+     style="stroke-width:2.21453" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2.17521"
+     id="rect843"
+     width="35.43362"
+     height="18.129297"
+     x="11.282193"
+     y="29.551613" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:200px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="12.312288"
+     y="45.70118"
+     id="text841"><tspan
+       sodipodi:role="line"
+       id="tspan839"
+       x="12.312288"
+       y="45.70118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">abc</tspan></text>
+  <rect
+     y="29.551613"
+     x="11.282193"
+     height="18.129297"
+     width="24.541891"
+     id="rect845"
+     style="color:#000000;overflow:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:1.81029" />
+</svg>

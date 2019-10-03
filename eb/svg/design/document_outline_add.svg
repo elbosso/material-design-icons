@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg837"
+   sodipodi:docname="document_outline_add.svg"
+   inkscape:version="0.92+devel (4eade15e6d, 2018-11-22, custom)">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1533"
+     inkscape:window-height="1145"
+     id="namedview839"
+     showgrid="false"
+     inkscape:zoom="19.833333"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="1667"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg837" />
+  <path
+     fill="none"
+     d="M 0,0 H 24 V 24 H 0 Z"
+     id="path833"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 28.145317,2 H 10.429063 C 7.9930785,2 6,3.9930785 6,6.4290633 V 41.86157 c 0,2.435985 1.9709332,4.429063 4.406918,4.429063 h 26.596525 c 2.435985,0 4.429063,-1.993078 4.429063,-4.429063 V 15.28719 Z M 38.297561,43.155688 H 9.1349454 V 5.1349457 H 27.275323 V 16.157184 h 11.022238 z"
+     id="path835"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssssssccccccccc"
+     style="stroke-width:2.21453" />
+  <g
+     transform="translate(26.026812,25.998638)"
+     id="g849">
+    <ellipse
+       ry="7.6629605"
+       rx="7.9636731"
+       cy="12.259078"
+       cx="12.19863"
+       id="path845"
+       style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path835-3"
+       d="M 12,2 C 6.48,2 2,6.48 2,12 2,17.52 6.48,22 12,22 17.52,22 22,17.52 22,12 22,6.48 17.52,2 12,2 Z m 5,11 h -4 v 4 H 11 V 13 H 7 v -2 h 4 V 7 h 2 v 4 h 4 z" />
+  </g>
+</svg>
