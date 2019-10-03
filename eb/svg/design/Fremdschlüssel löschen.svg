@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg837"
+   sodipodi:docname="Fremdschlüssel löschen.svg"
+   inkscape:version="0.92+devel (4eade15e6d, 2018-11-22, custom)">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1145"
+     id="namedview839"
+     showgrid="false"
+     inkscape:zoom="19.726744"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg837" />
+  <path
+     d="M0 0h48v48H0z"
+     fill="none"
+     id="path833" />
+  <path
+     d="m 29.895408,24.307099 c 4.586365,1.84482 10.021539,0.731546 13.474261,-3.183439 C 47.755024,16.151179 47.279477,8.5717553 42.306996,4.1864017 37.334515,-0.19895239 29.755092,0.27659391 25.369737,5.2490751 21.917015,9.1640603 21.491822,14.695761 23.895431,19.015571 l -5.754537,6.524975 -5.999977,-5.291528 -2.8228821,2.999994 4.5885591,5.499997 -7.4114412,-2.500002 -2.822882,2.999994 -2.8228821,2.999994 5.9999773,5.291529 -2.645764,2.999988 5.999977,5.291529 z m 1.474307,-13.766496 c 1.461784,-1.6574937 3.988259,-1.8160087 5.645753,-0.354224 1.657493,1.461784 1.816009,3.988259 0.354224,5.645753 -1.461785,1.657493 -3.988259,1.816009 -5.645753,0.354224 -1.657493,-1.461785 -1.816009,-3.988259 -0.354224,-5.645753 z"
+     id="path835"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssccccccccccccsssss" />
+  <g
+     id="g849"
+     transform="rotate(45.010752,-6.4164099,56.284392)">
+    <ellipse
+       ry="7.6629605"
+       rx="7.9636731"
+       cy="12.259078"
+       cx="12.19863"
+       id="path845"
+       style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2" />
+    <path
+       id="path835-3"
+       d="M 12,2 C 6.48,2 2,6.48 2,12 2,17.52 6.48,22 12,22 17.52,22 22,17.52 22,12 22,6.48 17.52,2 12,2 Z m 5,11 h -4 v 4 H 11 V 13 H 7 v -2 h 4 V 7 h 2 v 4 h 4 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
