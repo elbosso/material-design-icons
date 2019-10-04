@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg835"
+   sodipodi:docname="suche4.svg"
+   inkscape:version="0.92+devel (4eade15e6d, 2018-11-22, custom)">
+  <metadata
+     id="metadata841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs839" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1145"
+     id="namedview837"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="19.833333"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg835">
+    <sodipodi:guide
+       position="13.714286,48.504202"
+       orientation="0,-1"
+       id="guide855" />
+    <sodipodi:guide
+       position="13.260504,32.87395"
+       orientation="0,-1"
+       id="guide857" />
+    <sodipodi:guide
+       position="15.07563,24.857143"
+       orientation="1,0"
+       id="guide859" />
+  </sodipodi:namedview>
+  <path
+     d="M 29.423099,18.998005 27.94464,19.583031 27.230855,19.273982 C 28.218132,16.44206 28.229927,13.264834 27.041477,10.261422 24.399659,3.5851059 16.846519,0.31480263 10.170203,2.9566209 3.4938873,5.5984391 0.22358402,13.151579 2.8654023,19.827895 c 2.6418182,6.676316 10.1949577,9.946619 16.8712737,7.304801 3.003413,-1.18845 5.312296,-3.371099 6.705568,-6.019531 l 0.713785,0.309049 0.581347,1.469161 12.970544,5.600481 1.674485,-3.867415 z M 18.264911,23.4133 C 13.643561,25.241968 8.4134665,22.977479 6.5847984,18.35613 4.7561303,13.73478 7.0206187,8.5046851 11.641968,6.676017 c 4.62135,-1.828668 9.851445,0.4358203 11.680113,5.05717 1.828668,4.62135 -0.43582,9.851445 -5.05717,11.680113 z"
+     id="path833"
+     inkscape:connector-curvature="0"
+     inkscape:transform-center-x="-7.0723097"
+     inkscape:transform-center-y="-0.12204743" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2.17521"
+     id="rect843"
+     width="35.43362"
+     height="18.129297"
+     x="12.60716"
+     y="29.840675" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:200px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="13.637256"
+     y="45.990242"
+     id="text841"><tspan
+       sodipodi:role="line"
+       id="tspan839"
+       x="13.637256"
+       y="45.990242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">abc</tspan></text>
+  <rect
+     y="29.840675"
+     x="12.60716"
+     height="18.129297"
+     width="24.541891"
+     id="rect845"
+     style="color:#000000;overflow:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:1.81029" />
+</svg>
