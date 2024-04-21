@@ -1,3 +1,7 @@
 node_modules
 android
 *~
+update/venv/
+venv/
+update/__pycache__/
+__pycache__/
